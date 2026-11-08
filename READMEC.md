@@ -51,7 +51,7 @@ Population 50 (≈ 7 × le nombre de variables), 100 générations, croisement 0
 ## 6. Exécution
 
 ```bash
-python ga_maintenance.py
+python Cédule de maintenance.py
 ```
 
 ## 7. Résultats (30 exécutions par mutation)
